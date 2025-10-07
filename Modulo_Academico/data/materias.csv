@@ -1,0 +1,9 @@
+id,nombre,codigo,docente_id
+1,Frontend - lunes 8am,DE-001,2
+2,Backend - lunes 10am,DE-002,1
+3,Base de Datos - martes 8am,DE-003,2
+4,Lógica de Programación - martes 10am,DE-004,4
+5,Frontend - lunes 8am,SO-001,6
+6,Backend - lunes 10am,SO-002,8
+7,Base de Datos - martes 8am,SO-003,7
+8,Lógica de Programación - martes 10am,SO-004,5

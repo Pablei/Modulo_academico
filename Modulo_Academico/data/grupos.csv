@@ -1,0 +1,17 @@
+id,nombre,materia_id,semestre
+1,Grupo A - Desarrollo de Software,1,1
+2,Grupo B - Desarrollo de Software,1,1
+3,Grupo A - Desarrollo de Software,2,1
+4,Grupo B - Desarrollo de Software,2,1
+5,Grupo A - Desarrollo de Software,3,1
+6,Grupo B - Desarrollo de Software,3,1
+7,Grupo A - Desarrollo de Software,4,1
+8,Grupo B - Desarrollo de Software,4,1
+9,Grupo A - Soporte Técnico,5,1
+10,Grupo B - Soporte Técnico,5,1
+11,Grupo A - Soporte Técnico,6,1
+12,Grupo B - Soporte Técnico,6,1
+13,Grupo A - Soporte Técnico,7,1
+14,Grupo B - Soporte Técnico,7,1
+15,Grupo A - Soporte Técnico,8,1
+16,Grupo B - Soporte Técnico,8,1
